@@ -9,7 +9,7 @@ class Aprendiz
   
   aprendiz1 = Aprendiz.new(876543, "daniel15@gmail.com")
   aprendiz1.dis = 0
-  aprendiz1.edad = 19
+  aprendiz1.edad = 
   
   puts aprendiz1.id
   puts aprendiz1.email
