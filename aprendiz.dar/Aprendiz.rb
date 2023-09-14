@@ -9,7 +9,7 @@ class Aprendiz
   
   aprendiz1 = Aprendiz.new(876543, "daniel15@gmail.com")
   aprendiz1.dis = 0
-  aprendiz1.edad = 
+  aprendiz1.edad = 25
   
   puts aprendiz1.id
   puts aprendiz1.email
@@ -18,7 +18,7 @@ class Aprendiz
   
   aprendiz2 = Aprendiz.new(7856, "cristian01@gmail.com")
   aprendiz2.dis = 1
-  aprendiz2.edad = 18
+  aprendiz2.edad = 20
   
   puts aprendiz2.id
   puts aprendiz2.email
@@ -27,7 +27,7 @@ class Aprendiz
   
   aprendiz3 = Aprendiz.new(111, "leiner43@gmail.com")
   aprendiz3.dis = 1
-  aprendiz3.edad = 22
+  aprendiz3.edad = 19
   
   puts aprendiz3.id
   puts aprendiz3.email
@@ -36,7 +36,7 @@ class Aprendiz
   
   aprendiz4 = Aprendiz.new(9879, "12stiven@gmail.com")
   aprendiz4.dis = 1
-  aprendiz4.edad = 18
+  aprendiz4.edad = 17
   
   puts aprendiz4.id
   puts aprendiz4.email
@@ -45,7 +45,7 @@ class Aprendiz
   
   aprendiz5 = Aprendiz.new(2314, "Maria55@gmail.com")
   aprendiz5.dis = 0
-  aprendiz5.edad = 23
+  aprendiz5.edad = 20
   
   puts aprendiz5.id
   puts aprendiz5.email
